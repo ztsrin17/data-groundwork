@@ -1,3 +1,13 @@
+# Folders
+session journal/
+core skills/
+T2-Excel
+T3-Python
+
+# Extra files
+T1-SQL/sql-cheat-sheet.md
+T1-SQL/sql-hyref.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

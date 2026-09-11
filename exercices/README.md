@@ -1,3 +1,0 @@
-# Exercises
-
-Tracking practice exercises.
